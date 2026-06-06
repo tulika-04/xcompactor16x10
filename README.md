@@ -1,1 +1,1 @@
-# xcompactor
+# xcompactor16x10
